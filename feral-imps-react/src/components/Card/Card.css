@@ -1,0 +1,27 @@
+.card {
+    max-height: 400px;
+    width: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.card img{
+    height: 400px;
+    width: auto;
+}
+
+.centered {
+    display: block;
+    margin: auto;
+}
+
+#activate_btn {
+    width: 80px;
+    height: 80px;
+    font-size: 1em;
+    margin: auto;
+    display: block;
+    position: relative;
+    top: -80px;
+    border-radius: 50%;
+}
